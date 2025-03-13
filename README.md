@@ -46,24 +46,24 @@ O dataset pode ser baixado [aqui](https://archive.ics.uci.edu/ml/datasets/Bike+S
 
 4. **Avaliação do Modelo**:
    - Métricas calculadas no conjunto de teste:
-     - **MAE (Erro Médio Absoluto)**: 46.84
-     - **MSE (Erro Quadrático Médio)**: 4769.16
-     - **RMSE (Raiz do Erro Quadrático Médio)**: 69.06
-     - **R² (Coeficiente de Determinação)**: 0.85
+     - **MAE (Erro Médio Absoluto)**: 0.1730
+     - **MSE (Erro Quadrático Médio)**: 0.0622
+     - **RMSE (Raiz do Erro Quadrático Médio)**: 0.2494
+     - **R² (Coeficiente de Determinação)**: 0.94
 
 ---
 
 ## **Resultados**
 
-O modelo obteve um **R² de 0.86**, indicando que ele explica 86% da variância dos dados. As métricas de erro (MAE e RMSE) sugerem que o modelo tem um bom desempenho, mas ainda há espaço para melhorias, especialmente na redução de erros maiores.
+O modelo obteve um **R² de 0.94**, indicando que ele explica 94% da variância dos dados. As métricas de erro (MAE e RMSE) sugerem que o modelo tem um bom desempenho, mas ainda há espaço para melhorias, especialmente na redução de erros maiores.
 
 ### **Métricas Finais**:
 | Métrica | Valor |
 |---------|-------|
-| MAE     | 46.84 |
-| MSE     | 4769.16 |
-| RMSE    | 69.06 |
-| R²      | 0.85  |
+| MAE     | 0.1730 |
+| MSE     | 0.0622 |
+| RMSE    | 0.2494 |
+| R²      | 0.94  |
 
 ---
 
